@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BearSMSCaptcha</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="smssdk_receive_msg"><Data>&lt;font color=#209526>%s&lt;/font>秒</Data></string>
+
+</resources>

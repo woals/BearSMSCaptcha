@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\android\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="F:\AndroidStudioProjects\BearSMSCaptcha\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_db5f3941ee2093b4dbaed5482b191bc54a56d621\classes.dex" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\BearSMSCaptcha\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="F:\AndroidStudioProjects\BearSMSCaptcha\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-18.0.0_b049172f2daed3b388af4b1e16a680d31a084065\classes.dex" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\BearSMSCaptcha\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="db978f1d80c0dbb1e286bed005e1a7476a51dac6">
+        <dex dex="F:\AndroidStudioProjects\BearSMSCaptcha\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9b3ca7799c7bd7cf99433a0cec83157a404fc4f2\classes.dex" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\BearSMSCaptcha\app\libs\smscaptcha_v_1_4.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a78e4b86cc655890d3d10288ecfbfff2674b2417">
+        <dex dex="F:\AndroidStudioProjects\BearSMSCaptcha\app\build\intermediates\transforms\dex\debug\folders\1000\2\smscaptcha_v_1_4_41713290646c712f219e49e96730733be2a516b5\classes.dex" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\BearSMSCaptcha\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a1a10bf765646ce1432b043003e9a2c4d3c0f2a8">
+        <dex dex="F:\AndroidStudioProjects\BearSMSCaptcha\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ede4f59e9ef56e0d27996952a915bb1b4178ee4f\classes.dex" />
+    </item>
+
+</items>

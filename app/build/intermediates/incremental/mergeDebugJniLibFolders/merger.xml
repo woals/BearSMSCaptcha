@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="F:\AndroidStudioProjects\BearSMSCaptcha\app\src\main\jniLibs"><file name="armeabi/libSMSSDK_v_1_1.so" path="F:\AndroidStudioProjects\BearSMSCaptcha\app\src\main\jniLibs\armeabi\libSMSSDK_v_1_1.so"/></source></dataSet><dataSet config="debug"><source path="F:\AndroidStudioProjects\BearSMSCaptcha\app\src\debug\jniLibs"/></dataSet></merger>
