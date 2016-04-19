@@ -18,6 +18,8 @@ import android.widget.Toast;
 import com.thinkland.sdk.sms.SMSCaptcha;
 import com.thinkland.sdk.util.BaseData.ResultCallBack;
 
+
+// 源码地址：http://www.2cto.com/kf/201506/411320.html
 public class MainActivity extends Activity implements OnClickListener{
 
 	private SMSCaptcha mCaptcha; //短信sdk主对象
